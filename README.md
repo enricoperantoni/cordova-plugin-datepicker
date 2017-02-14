@@ -142,9 +142,9 @@ Choose the theme of the picker
 
 Type: Int
 
-Values: `THEME_TRADITIONAL | THEME_HOLO_DARK | THEME_HOLO_LIGHT | THEME_DEVICE_DEFAULT_DARK | THEME_DEVICE_DEFAULT_LIGHT`
+Values: `THEME_TRADITIONAL : 1` | `THEME_HOLO_DARK : 2` | `THEME_HOLO_LIGHT : 3` | `THEME_DEVICE_DEFAULT_DARK : 4` | `THEME_DEVICE_DEFAULT_LIGHT : 5`
 
-Default: `THEME_TRADITIONAL`
+Default: `1`
 
 ### allowOldDates - iOS
 Shows or hide dates earlier then selected date.
